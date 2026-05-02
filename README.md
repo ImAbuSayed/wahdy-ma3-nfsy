@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل الغرام خذني في عيونها
+> روح ومشاعر في الهوى سكونها
+> في صمت الليل أسمع نبضها
+> نار الشوق تحرقني جنونها
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
