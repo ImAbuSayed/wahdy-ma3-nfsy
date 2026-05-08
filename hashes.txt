@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wahdy Ma3 Nfsy
+
+This log tracks the cryptographic history and versioning for the song **Wahdy Ma3 Nfsy** (wahdy-ma3-nfsy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:16:39.093445 | `v1` | `05de3277f2e04ef377a0c4ea79d0f9d3e7bf60fc4411c497fcc91043507d8c7d` | `c961b1fe319c5e7273020ef3ee5aab2f65aa53f605e564ddfb472a74a3ff0dde` | `2026-05-08_wahdy-ma3-nfsy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
